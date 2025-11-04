@@ -1,5 +1,4 @@
 
-```markdown
 # 🎬 DistilBERT Sentiment Analyzer
 
 A sophisticated web application that classifies movie reviews as **Positive** or **Negative** using a fine-tuned DistilBERT model. Built with Streamlit, this app provides a beautiful, interactive interface for real-time sentiment analysis.
